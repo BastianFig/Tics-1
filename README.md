@@ -4,3 +4,4 @@ Proyecto creado para curso Tics1 donde se pide un programa capaz de para calcula
 
 El programa esta hecho en Python y esta es su primera versión.
 
+Se espera conectarlo con una base de datos
